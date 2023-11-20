@@ -1,0 +1,16 @@
+Code Test view
+npm start
+
+Production create build folder inside create files
+npm run build
+
+
+build  folder inside - > bash aa ajilluulaad  build hiisniigee run hiij bna gesen ug 
+npx serve     
+
+
+SSL aldaa fix command
+
+Windows PowerShell-
+
+$env:NODE_OPTIONS = "--openssl-legacy-provider"
